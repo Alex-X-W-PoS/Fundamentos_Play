@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos Play F", "Assembly-CSharp.csproj", "{55A90C65-C629-F641-3875-E643480D1E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fundamentos Play F", "Assembly-CSharp-Editor.csproj", "{87777910-950F-2BDF-7055-3018AA6EEC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55A90C65-C629-F641-3875-E643480D1E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A90C65-C629-F641-3875-E643480D1E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A90C65-C629-F641-3875-E643480D1E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A90C65-C629-F641-3875-E643480D1E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87777910-950F-2BDF-7055-3018AA6EEC8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87777910-950F-2BDF-7055-3018AA6EEC8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87777910-950F-2BDF-7055-3018AA6EEC8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87777910-950F-2BDF-7055-3018AA6EEC8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

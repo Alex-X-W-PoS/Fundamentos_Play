@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameController.cs" Line="28" Column="4" />
+      <File FileName="Assets\Scripts\DataRL.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AnswerButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LevelTestMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ChallengeButton.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldMaster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Controller.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoginController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UserRecognition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DataController.cs" Line="323" Column="29" />
+      <File FileName="Assets\Scripts\UserData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MedalData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\QuestionData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\First Time Checker.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\giro.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\intro.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
